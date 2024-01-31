@@ -24,5 +24,8 @@ git remote add origin https://github.com/{UserName}/{RepositoryName} // 원격 �
 git push origin master // 로컬 저장소를 밀어 원격 저장소에 반영 <br/>
 
 
+git remote -v // 로컬 저장소를 원격 저장소와 연결
+git remote [name] [레포지토리 주소] // 레포지토리와 연결
+
 
 
